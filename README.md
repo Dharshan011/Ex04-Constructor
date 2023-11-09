@@ -6,7 +6,7 @@
  ### Visual Studio
 
  ## Algorithm:
-### Step1:
+## Step1:  
 Start the program.
 
 ### Step2:
@@ -23,9 +23,7 @@ call display method to display the output.
 
 ### Step6:
 End the program
- 
- 
- ## Program:
+## Program:
 ```
 Developed by :DHARSHAN V
 Register No: 212222230031
